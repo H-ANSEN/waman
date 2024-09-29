@@ -1,0 +1,3 @@
+(executable
+ (name waman)
+ (libraries lwt cohttp-lwt-unix lambdasoup uri))
